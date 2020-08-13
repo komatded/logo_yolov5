@@ -1,5 +1,8 @@
 # Logo detection with YoloV5
 
+## Description
+Project for logotype object detection using Yolo v5 (https://github.com/ultralytics/yolov5)
+
 ## Run
 ```python3
 import tqdm
