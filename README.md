@@ -38,7 +38,7 @@ video.release()
 cv2.destroyAllWindows()
 ```
 
-### Scene video process
+### Scene split video process
 ```python3
 frames = detector.get_scene_frames(video_file_path='resources/test.mp4')
 for n, frame in tqdm.tqdm(enumerate(frames)):
